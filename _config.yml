@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "刘厚知的博客,liuhouzhi, Liuhouzhi‘s Blog, Java"
 url: "https://liuhouzhi.github.io//"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code repository
+github_repo: "https://github.com/liuhouzhi/" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
