@@ -1,20 +1,5 @@
 教程在后面
 各文件意思：
-.idear       my blog
-_includes    打赏
-—layouts     样式修改
-—posts       diary
-css          页面调整
-fonts        my blog
-img          diary
-js           设计模式
-less         js
-pwa          代码规范
-.gitgnore    改图
-.travis.yml  my blog
-404.htm       页面
-CNAME         修改
-Gruntfiles.js
 
 
 
