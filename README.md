@@ -1,4 +1,4 @@
-![login](https://https://github.com/liuhouzhi/liuhouzhi.github.io/blob/master/各文件意思1.png)
+![login](https://github.com/liuhouzhi/liuhouzhi.github.io/blob/master/各文件意思1.png)
 
 ![](https://raw.githubusercontent.com/flyingwzb/flyingwzb.github.io/master/img/readme-home.png)
 
