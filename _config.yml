@@ -18,12 +18,12 @@ sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-weibo_username:     wzb1994
-zhihu_username:     zongguanxian
-github_username:    flyingwzb
+weibo_username:     liuhouzhi
+zhihu_username:     *******
+github_username:    liuhouzhi
 # facebook_username:  username
 # jianshu_username:   jianshu_id
-twitter_username:   wzbcode
+twitter_username:   *********
 
 
 # Build settings
