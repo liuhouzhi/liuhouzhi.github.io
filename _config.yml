@@ -19,12 +19,11 @@ sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in 
 # SNS settings
 RSS: false
 weibo_username:     liuhouzhi
-zhihu_username:     *******
+zhihu_username:     666666
 github_username:    liuhouzhi
 # facebook_username:  username
 # jianshu_username:   jianshu_id
-twitter_username:   *********
-
+twitter_username:  666666
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
