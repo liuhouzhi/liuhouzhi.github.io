@@ -1,10 +1,10 @@
 # Site settings
-title: Liuhouzhi's Blog
-SEOTitle: Liuhouzhi的博客
+title: LiuHouzhi's Blog
+SEOTitle: LiHouzhi的博客
 header-img: img/post-bg-index.jpg
-email: lhz060809@189.cn
-description: "Every failure is leading towards success."
-keyword: "刘厚知的博客,liuhouzhi, Liuhouzhi‘s Blog, Java"
+email: lhz060809gamol.com
+description: "做最好的自己."
+keyword: "刘厚知的博客,liuHouzhi, Liuhouzhi‘s Blog, Java,"
 url: "https://liuhouzhi.github.io//"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/liuhouzhi/" # you code repository
