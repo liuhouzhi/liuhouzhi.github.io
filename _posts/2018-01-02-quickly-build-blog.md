@@ -12,7 +12,7 @@ tags:
 
 > 本文转载自：[Will wang‘s blog](https://flyingwzb.github.io/)
 
->感谢 [Will wang‘s blog](https://github.com/flyingwzb/)对我搭建博客提供的帮助以及感谢[Huxpro](https://github.com/huxpro)提供的博客模板
+>感谢 [Will wang‘s blog](https://github.com/flyingwzb/)对我搭建博客提供的帮助，感谢[Huxpro](https://github.com/huxpro)提供的博客模板
 
  正所谓前人栽树，后人乘凉。
 > 
