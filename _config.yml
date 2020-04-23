@@ -12,7 +12,7 @@ github_repo: "https://github.com/liuhouzhi/" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "但行好事，莫问前程。"
-sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Starry sky.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
