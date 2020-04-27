@@ -25,6 +25,8 @@ diskutil list
 
 ####disk2就是我的外接移动硬盘
 ![图片1](https://github.com/liuhouzhi/liuhouzhi.github.io/blob/master/img/MAC%20p1-1.png)
+
+
 2、再输入
 ----------------------------
 ```
