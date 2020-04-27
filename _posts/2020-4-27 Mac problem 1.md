@@ -38,9 +38,9 @@ disk2就是我的外接移动硬盘
 
 情况二
 ----------------------------
-*Volume on disk2 failed to mount; if it has a partitioning scheme, use "diskutil mountDisk"
+:Volume on disk2 failed to mount; if it has a partitioning scheme, use "diskutil mountDisk"
 
-*If the volume is damaged, try the "readOnly" option
+:If the volume is damaged, try the "readOnly" option
 #### 根据提示操作
 
 *sudo diskutil mountDisk /dev/disk2
