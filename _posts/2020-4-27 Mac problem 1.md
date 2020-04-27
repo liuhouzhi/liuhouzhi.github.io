@@ -31,10 +31,12 @@ disk2就是我的外接移动硬盘
 情况一
 ![图片2](https://github.com/liuhouzhi/liuhouzhi.github.io/blob/master/img/MAC%20p1-2.png)
 情况二
+----------------------------
 * Volume on disk2 failed to mount; if it has a partitioning scheme, use "diskutil mountDisk"
 
 *If the volume is damaged, try the "readOnly" option
 根据提示操作
+----------------------------
 *sudo diskutil mountDisk /dev/disk2
 
 *Volume(s) mounted successfully
@@ -42,6 +44,7 @@ disk2就是我的外接移动硬盘
 
 如果有问题，你也可以通过这个只读查看下
 情况三
+----------------------------
 
 如果上面两个方法都不行，那再执行mout的之前执行
 *sudo fsck_hfs -fy /dev/disk2
