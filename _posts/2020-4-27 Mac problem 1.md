@@ -42,6 +42,7 @@ disk2就是我的外接移动硬盘
 
 情况二
 ----------------------------
+显示：
 ```
 Volume on disk2 failed to mount; if it has a partitioning scheme, use "diskutil mountDisk"
 
@@ -51,7 +52,10 @@ If the volume is damaged, try the "readOnly" option
 ```
 sudo diskutil mountDisk /dev/disk2
 ```
-*Volume(s) mounted successfully
+显示：
+```
+Volume(s) mounted successfully
+```
 #### 这种情况下基本能装载上了
 
 #### 如果有问题，你也可以通过这个只读查看下
