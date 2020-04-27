@@ -30,7 +30,7 @@ disk2就是我的外接移动硬盘
 2、再输入
 ----------------------------
 ```
- sudo diskutil mount /dev/disk2
+sudo diskutil mount /dev/disk2
  ```
 这时候会出现不同的情况：
 
@@ -62,7 +62,7 @@ Volume(s) mounted successfully
 
 #### 如果有问题，你也可以通过这个只读查看下
 ```
-*diskutil mountDisk readOnly /dev/disk2
+diskutil mountDisk readOnly /dev/disk2
 ```
 
 情况三
@@ -74,7 +74,7 @@ sudo fsck_hfs -fy /dev/disk2
 ```
 #### 在执行装载命令之前先执行上边这行命令
 ```
-*sudo diskutil mount /dev/disk2 或者  sudo diskutil mountDisk /dev/disk2
+sudo diskutil mount /dev/disk2 或者  sudo diskutil mountDisk /dev/disk2
 ```
 我的很顺利，出现的是第一种情况
 
