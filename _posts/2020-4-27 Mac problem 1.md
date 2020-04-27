@@ -23,7 +23,7 @@ diskutil list
 ```
 会弹出以下内容:
 
-####disk2就是我的外接移动硬盘
+disk2就是我的外接移动硬盘
 ![图片1](https://github.com/liuhouzhi/liuhouzhi.github.io/blob/master/img/MAC%20p1-1.png)
 
 
