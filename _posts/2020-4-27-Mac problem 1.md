@@ -24,8 +24,7 @@ diskutil list
 会弹出以下内容:
 
 disk2就是我的外接移动硬盘
-![图片1](https://github.com/liuhouzhi/liuhouzhi.github.io/blob/master/img/MAC%20p1-1.png)
-
+![Ymszt.png](https://cdn.img.wenhairu.com/images/2020/04/27/Ymszt.png)
 
 2、再输入
 ----------------------------
@@ -37,7 +36,7 @@ sudo diskutil mount /dev/disk2
 
 情况一
 ----------------------------
-![图片2](https://github.com/liuhouzhi/liuhouzhi.github.io/blob/master/img/MAC%20p1-2.png)
+![YmiZD.png](https://cdn.img.wenhairu.com/images/2020/04/27/YmiZD.png)
 #### 可以装载上
 即使一直显示
 ```
