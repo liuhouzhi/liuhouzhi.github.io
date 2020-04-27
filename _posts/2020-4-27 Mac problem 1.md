@@ -32,6 +32,7 @@ disk2就是我的外接移动硬盘
 
 情况一
 ![图片2](https://github.com/liuhouzhi/liuhouzhi.github.io/blob/master/img/MAC%20p1-2.png)
+就可以装载上，即使一直显示volume on disk2 timed out waiting to mount，有可能已经装载上了
 
 
 情况二
