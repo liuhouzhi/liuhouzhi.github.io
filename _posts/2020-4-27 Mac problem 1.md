@@ -10,12 +10,12 @@ tags:
     - Mac
 ---
 
-情况描述
-----------------------------
+## 情况描述
 
-本人有一台 2016年的 MacBook Air连接移动硬盘，如果不正常推出，比如是再连接一个移动硬盘时，或者没有正常推出，直接拔出来了，甚至有时候长时间连接，但是没有使用时，由于硬盘的自我休眠，这个时候再次链接就会遇到无法装载的问题，但是可以通过命令行查看到。
-解决
-----------------------------
+
+*本人有一台 2016年的 MacBook Air连接移动硬盘，如果不正常推出，比如是再连接一个移动硬盘时，或者没有正常推出，直接拔出来了，甚至有时候长时间连接，但是没有使用时，由于硬盘的自我休眠，这个时候再次链接就会遇到无法装载的问题，但是可以通过命令行查看到。
+## 解决
+
 1、在终端中用命令行输入
 ----------------------------
 diskutil list
@@ -38,7 +38,7 @@ disk2就是我的外接移动硬盘
 
 情况二
 ----------------------------
-* Volume on disk2 failed to mount; if it has a partitioning scheme, use "diskutil mountDisk"
+*Volume on disk2 failed to mount; if it has a partitioning scheme, use "diskutil mountDisk"
 
 *If the volume is damaged, try the "readOnly" option
 #### 根据提示操作
@@ -49,6 +49,7 @@ disk2就是我的外接移动硬盘
 #### 这种情况下基本能装载上了
 
 #### 如果有问题，你也可以通过这个只读查看下
+*diskutil mountDisk readOnly /dev/disk2
 
 
 情况三
