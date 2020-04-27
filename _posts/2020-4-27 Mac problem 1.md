@@ -21,47 +21,55 @@ tags:
 ```
 diskutil list
 ```
-会弹出以下内容，
+会弹出以下内容:
 
 disk2就是我的外接移动硬盘
 ![图片1](https://github.com/liuhouzhi/liuhouzhi.github.io/blob/master/img/MAC%20p1-1.png)
 2、再输入
 ----------------------------
-* sudo diskutil mount /dev/disk2
+```
+ sudo diskutil mount /dev/disk2
+ ```
 这时候会出现不同的情况：
 
 
 情况一
 ----------------------------
 ![图片2](https://github.com/liuhouzhi/liuhouzhi.github.io/blob/master/img/MAC%20p1-2.png)
-#### 就可以装载上，即使一直显示volume on disk2 timed out waiting to mount，有可能已经装载上了
+#### 可以装载上
+即使一直显示volume on disk2 timed out waiting to mount，有可能已经装载上了
 
 
 情况二
 ----------------------------
-:Volume on disk2 failed to mount; if it has a partitioning scheme, use "diskutil mountDisk"
+```
+Volume on disk2 failed to mount; if it has a partitioning scheme, use "diskutil mountDisk"
 
-:If the volume is damaged, try the "readOnly" option
+If the volume is damaged, try the "readOnly" option
+```
 #### 根据提示操作
-
-*sudo diskutil mountDisk /dev/disk2
-
+```
+sudo diskutil mountDisk /dev/disk2
+```
 *Volume(s) mounted successfully
 #### 这种情况下基本能装载上了
 
 #### 如果有问题，你也可以通过这个只读查看下
+```
 *diskutil mountDisk readOnly /dev/disk2
-
+```
 
 情况三
 ----------------------------
 
 #### 如果上面两个方法都不行，那再执行mout的之前执行
-*sudo fsck_hfs -fy /dev/disk2
-
+```
+sudo fsck_hfs -fy /dev/disk2
+```
 #### 在执行装载命令之前先执行上边这行命令
+```
 *sudo diskutil mount /dev/disk2 或者  sudo diskutil mountDisk /dev/disk2
-
+```
 我的很顺利，出现的是第一种情况
 
 
