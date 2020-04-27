@@ -13,7 +13,7 @@ tags:
 ## 情况描述
 
 
-####本人有一台 2016年的 MacBook Air连接移动硬盘，如果不正常推出，比如是再连接一个移动硬盘时，或者没有正常推出，直接拔出来了，甚至有时候长时间连接，但是没有使用时，由于硬盘的自我休眠，这个时候再次链接就会遇到无法装载的问题，但是可以通过命令行查看到。
+本人有一台 2016年的 MacBook Air连接移动硬盘，如果不正常推出，比如是再连接一个移动硬盘时，或者没有正常推出，直接拔出来了，甚至有时候长时间连接，但是没有使用时，由于硬盘的自我休眠，这个时候再次链接就会遇到无法装载的问题，但是可以通过命令行查看到。
 ## 解决
 
 1、在终端中用命令行输入
@@ -39,7 +39,11 @@ sudo diskutil mount /dev/disk2
 ----------------------------
 ![图片2](https://github.com/liuhouzhi/liuhouzhi.github.io/blob/master/img/MAC%20p1-2.png)
 #### 可以装载上
-即使一直显示volume on disk2 timed out waiting to mount，有可能已经装载上了
+即使一直显示
+```
+volume on disk2 timed out waiting to mount
+```
+有可能已经装载上了
 
 
 情况二
