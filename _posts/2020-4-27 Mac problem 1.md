@@ -28,8 +28,12 @@ disk2就是我的外接移动硬盘
 ----------------------------
 * sudo diskutil mount /dev/disk2
 这时候会出现不同的情况：
+
+
 情况一
 ![图片2](https://github.com/liuhouzhi/liuhouzhi.github.io/blob/master/img/MAC%20p1-2.png)
+
+
 情况二
 ----------------------------
 * Volume on disk2 failed to mount; if it has a partitioning scheme, use "diskutil mountDisk"
@@ -43,6 +47,8 @@ disk2就是我的外接移动硬盘
 这种情况下基本能装载上了
 
 如果有问题，你也可以通过这个只读查看下
+
+
 情况三
 ----------------------------
 
