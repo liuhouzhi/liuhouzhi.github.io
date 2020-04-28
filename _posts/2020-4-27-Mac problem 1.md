@@ -2,7 +2,7 @@
 layout:     post
 title:      Mac移动硬盘不正确断开连接导致无法读取加载的解决方法
 subtitle:  解决方法
-date:       2020-02-17
+date:       2020-04-27
 author:     Liu Houzhi
 header-img: img/post-bg-article.jpg
 catalog: true
