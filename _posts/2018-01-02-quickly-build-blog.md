@@ -3,7 +3,7 @@ layout:     post
 title:      快速搭建个人博客
 subtitle:   手把手教你在半小时内搭建自己的个人博客(如果不踩坑的话🙈🙊🙉)
 date:       2018-01-02
-author:     Will Wang
+author:     Liu Houzhi 
 header-img: img/post-bg-article.jpg
 catalog: true
 tags:
