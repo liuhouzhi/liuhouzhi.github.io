@@ -21,9 +21,9 @@ RSS: false
 weibo_username:     liuhouzhi
 zhihu_username:     666666
 github_username:    liuhouzhi
-# facebook_username:  username
+ facebook_username: HouzhiLiu
 # jianshu_username:   jianshu_id
-twitter_username:  666666
+twitter_username:  HouzhiLiu
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
