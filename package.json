@@ -1,9 +1,9 @@
 {
     "name": "by-blog",
-    "title": "Will Wang Blog",
-    "author": "Will Wang <wzbcode@163.com>",
-    "version": "1.7.0",
-    "homepage": "https://flyingwzb.github.io",
+    "title": "LiuHouzhi's Blog",
+    "author": "LiuHouzhi <2377491774@qq.com>",
+    "version": "1.8.0",
+    "homepage": "https://liuhouzhi23.today",
     "repository": {
         "type": "git",
         "url": "https://github.com/flyingwzb/flyingwzb.github.io"
