@@ -2,7 +2,7 @@
 title: LiuHouzhi's Blog
 SEOTitle: LiuHouzhi的博客
 header-img: img/yourname2.jpg
-email: lhz060809@gmail.com
+email: asn@kyotoo.today
 description: "做最好的自己."
 keyword: "刘厚知的博客,liuHouzhi, Liuhouzhi‘s Blog, Java,"
 url: "https://liuhouzhi.github.io//"          # your host, for absolute URL
@@ -60,7 +60,7 @@ kramdown:
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 081890c8c3e36e196a7a                            #生成的clientID
-  clientSecret: 358153b5bb534cba5d6dc494e34a180ef25ce620    #生成的clientSecret
+  clientSecret: 0e4ac1f00151978c9fa019a704605a563c946881    #生成的clientSecret
   repo: liuhouzhi.github.io    #仓库名称
   owner: liuhouzhi    #github用户名
   admin: liuhouzhi
