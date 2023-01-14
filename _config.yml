@@ -53,8 +53,8 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: flyingwzb
+Disqus（https://disqus.com/）
+disqus_username: liuhouzhi
 
 # Gitalk
 gitalk:
